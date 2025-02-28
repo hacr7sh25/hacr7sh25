@@ -21,7 +21,6 @@ I'm a passionate and driven individual currently pursuing my degree in **Compute
 ## 📫 Let's Connect!
 - **LinkedIn**: [Harsh Vardhan Jaiswal](https://www.linkedin.com/in/harsh-vardhan-jaiswal-b41881269/)
 - **GitHub**: [Harsh Vardhan Jaiswal](https://github.com/hacr7sh25)
-- **Email**: jaiswalh2504@gmail.com
 
 Feel free to reach out for collaborations, discussions, or just a friendly chat!
 
