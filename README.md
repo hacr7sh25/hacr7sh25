@@ -13,7 +13,6 @@ I'm a passionate and driven individual currently pursuing my degree in **Compute
 - **Waste to Wealth** ♻️: Exploring innovative ways to turn waste into valuable resources
 
 ## 🛠️ Tech Stack
-- **Skills**: Risk Management, Business Analytics
 - **Languages**: Python, JavaScript, C, Java, HTML, CSS
 - **Tools & Frameworks**: Visual Studio Code, Oracle SQL
 - **Web Development**: HTML, CSS, React
