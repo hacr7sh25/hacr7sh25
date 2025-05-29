@@ -4,7 +4,7 @@
 I'm a passionate and driven individual currently pursuing my degree in **Computer Science Engineering** at **Jain University**. I have a keen interest in technology, entrepreneurship, and problem-solving.
 
 ## 🎯 What I Do
-- **Entrepreneur**: Founder & CEO of **Listaria**, a platform revolutionizing the secondhand market with secure transactions, verified users, and AI-powered price negotiation.
+- **Entrepreneur**: Founder & CEO of **Listaria**, a platform revolutionizing the secondhand market with AI-powered price negotiation.
 - **Tech Enthusiast**: Experienced in web development and data analytics.
 
 ## 💼 Projects & Interests
